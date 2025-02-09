@@ -7,7 +7,7 @@
 - Python 3.10.13
 - Node.js 20(lts)
 
-## Project 구조
+## Project Structure
 ```
 .
 ├── seoul_real_estate
