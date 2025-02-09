@@ -64,7 +64,7 @@ npm run start
 
 ![image](/public/Animation.gif)
 
-## Datasets
+## Dataset
 - National Statistical Portal Local Indicators 국가통계포털 지방지표(2014~2023)
 - Ministry of Land, Infrastructure, and Transport Real Transaction Price Disclosure System 국토교통부 실거래가 공개시스템(2014~2024)
 - Spatial Convergence Big Data Platform Apartment Information 공간융합 빅데이터 플랫폼 아파트 기준정보(2024.02)
